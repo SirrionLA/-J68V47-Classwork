@@ -15,7 +15,7 @@ public class Lesson2input {
         String city = input.nextLine();
 
         System.out.println("Thank you for provided information");
-        System.out.println(name + " "+ lastname);
+        System.out.println(name + " " + lastname);
 
     }
 }
